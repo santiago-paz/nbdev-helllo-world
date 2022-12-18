@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://santiago-paz.github.io',
                 'git_url': 'https://github.com/santiago-paz/nbdev-helllo-world',
                 'lib_path': 'nbdev_helllo_world'},
-  'syms': {'nbdev_helllo_world.core': {'nbdev_helllo_world.core.foo': ('core.html#foo', 'nbdev_helllo_world/core.py')}}}
+  'syms': { 'nbdev_helllo_world.core': { 'nbdev_helllo_world.core.foo': ('core.html#foo', 'nbdev_helllo_world/core.py'),
+                                         'nbdev_helllo_world.core.say_hello': ('core.html#say_hello', 'nbdev_helllo_world/core.py')}}}
