@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-helllo-world"
+  site-url: "https://santiago-paz.github.io/nbdev-helllo-world"
+  description: "A simple hello world with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/santiago-paz/nbdev-helllo-world"
